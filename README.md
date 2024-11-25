@@ -1,3 +1,3 @@
 # gitdemo
 <br>
-this is a demo for git
+this is a demo for git and its awesome
